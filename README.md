@@ -1,13 +1,12 @@
-# 📦 Streamlit App Starter Kit 
+ADA MACHINE LEARNING APP
 ```
-⬆️ (Replace above with your app's name)
+⬆️ ada machinelearning app
 ```
-
-Description of the app ...
+this is a fisrt try 
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ada_machinelearning.streamlit.app/)
 
 ## GitHub Codespaces
 
