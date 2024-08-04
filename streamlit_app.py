@@ -37,8 +37,11 @@ data = {'island': island,
 input_df = pd.DataFrame(data, index=[0])
   
 input_penguins = pd.concat([input_df, X], axis=0)
-st.write('input data',input_df)
-st.write('input penguins',input_penguins)
+with st.expander('Input features'):
+  st.write('**Input penguin**')
+  input_df
+  st.write('**Combined penguins data**')
+  input_penguins
     
       
 
