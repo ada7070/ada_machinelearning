@@ -10,3 +10,9 @@ with st.expander('data'):
     data=pd.read_csv('penguins_cleaned.csv')
     data
     st.write(data.shape)
+    st.write('***X***')
+    X=data.drop('species',axis=1)
+    X
+    st.write('***y***')
+    y=data['species']
+    y
